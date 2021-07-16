@@ -87,7 +87,7 @@
     "gatsby-telemetry": "^2.11.0-next.0",
     "gatsby-worker": "^0.2.0-next.0",
     "glob": "^7.1.6",
-    "got": "8.3.2",
+    "got": "9.5.1",
     "graphql": "^15.4.0",
     "graphql-compose": "~7.25.0",
     "graphql-playground-middleware-express": "^1.7.18",
